@@ -180,5 +180,4 @@ Continue monitoring weekly KPIs to quickly identify changes in revenue, transact
 - 🔗 LinkedIn: [Your LinkedIn URL]
 - 💼 Portfolio: https://tlotlisothene.github.io/
 - 📧 Email: thenetlotliso@gmail.com
-<img width="1636" height="922" alt="Credit" src="https://github.com/user-attachments/assets/b6c3f4e3-ae41-4956-a752-5a63b45f12db" />
 
