@@ -21,15 +21,11 @@ This project focuses on developing an interactive **Credit Card Financial Dashbo
 
 The dashboard was designed to support data-driven decision-making by transforming raw financial data into meaningful visualizations that help identify trends, evaluate business performance, and uncover opportunities for growth.
 
----
-
 # 2. Business Background
 
 Financial institutions process millions of credit card transactions every year, making it essential to monitor business performance efficiently. Understanding customer spending behavior, transaction trends, revenue generation, and credit card performance allows businesses to improve customer satisfaction, manage risk, and optimize financial strategies.
 
 An interactive dashboard provides decision-makers with timely insights, enabling them to track performance metrics, identify emerging trends, and make informed business decisions.
-
----
 
 # 3. Business Problem
 
@@ -44,8 +40,6 @@ The business needed an interactive dashboard capable of answering questions such
 - How effective are customer activation efforts?
 - What is the current delinquency rate?
 
----
-
 # 4. Business Objectives
 
 The primary objectives of this project are to:
@@ -58,8 +52,6 @@ The primary objectives of this project are to:
 - Monitor customer activation and delinquency rates to support risk management.
 - Enable stakeholders to make informed business decisions through interactive data visualizations.
 
----
-
 # 5. Tools & Technologies
 
 | Tool | Purpose |
@@ -68,8 +60,6 @@ The primary objectives of this project are to:
 | Power BI | Data Modeling, Dashboard Development & Visualization |
 | DAX | KPI Calculations & Measures |
 | Power Query | Data Cleaning & Transformation |
-
----
 
 # 6. Methodology
 
@@ -119,8 +109,6 @@ The dashboard enables stakeholders to:
 - Track customer activation and delinquency rates.
 - Filter insights dynamically using interactive slicers.
 
----
-
 # 7. Dashboard
 
 The dashboard provides an interactive overview of credit card operations through dynamic visualizations and key performance indicators.
@@ -136,10 +124,9 @@ The dashboard provides an interactive overview of credit card operations through
 - Activation Rate
 - Delinquency Rate
 - Interactive Filters and Slicers
+<img width="1358" height="773" alt="Screenshot (915)" src="https://github.com/user-attachments/assets/8deb8332-83e6-4dc1-aee2-ea2a978ee19f" />
+<img width="1636" height="922" alt="Credit" src="https://github.com/user-attachments/assets/2b7b987b-7a0b-4656-85ee-ae67dc659b01" />
 
-> **Insert dashboard screenshots here**
-
----
 
 # 8. Key Insights
 
@@ -154,8 +141,6 @@ The dashboard revealed several important business insights:
 - The overall customer activation rate reached **57.5%**, indicating that more than half of customers actively use their credit cards.
 - The overall delinquency rate remained relatively low at **6.06%**, suggesting healthy credit performance.
 - Weekly monitoring enables stakeholders to identify performance changes quickly and respond proactively to emerging business trends.
-
----
 
 # 9. Business Recommendations
 
@@ -211,7 +196,5 @@ Continue monitoring weekly KPIs to quickly identify changes in revenue, transact
 - 🔗 LinkedIn: [Your LinkedIn URL]
 - 💼 Portfolio: https://tlotlisothene.github.io/
 - 📧 Email: thenetlotliso@gmail.com
+<img width="1636" height="922" alt="Credit" src="https://github.com/user-attachments/assets/b6c3f4e3-ae41-4956-a752-5a63b45f12db" />
 
----
-
-*Last updated: July 2026*
