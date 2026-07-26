@@ -7,11 +7,10 @@
 4. [Business Objectives](#4-business-objectives)
 5. [Tools & Technologies](#5-tools--technologies)
 6. [Methodology](#6-methodology)
-7. [Dashboard](#7-dashboard)
-8. [Key Insights](#8-key-insights)
-9. [Business Recommendations](#9-business-recommendations)
-10. [Challenges & Limitations](#10-challenges--limitations)
-11. [Author](#11-author)
+7. [Key Insights](#8-key-insights)
+8. [Business Recommendations](#9-business-recommendations)
+9. [Challenges & Limitations](#10-challenges--limitations)
+10. [Author](#11-author)
 
 ---
 
@@ -109,26 +108,11 @@ The dashboard enables stakeholders to:
 - Track customer activation and delinquency rates.
 - Filter insights dynamically using interactive slicers.
 
-# 7. Dashboard
-
-The dashboard provides an interactive overview of credit card operations through dynamic visualizations and key performance indicators.
-
-### Dashboard Highlights
-
-- Revenue Overview
-- Weekly Performance Analysis
-- Customer Demographics
-- Credit Card Category Performance
-- State-wise Revenue Analysis
-- Transaction Analysis
-- Activation Rate
-- Delinquency Rate
-- Interactive Filters and Slicers
 <img width="1358" height="773" alt="Screenshot (915)" src="https://github.com/user-attachments/assets/8deb8332-83e6-4dc1-aee2-ea2a978ee19f" />
 <img width="1636" height="922" alt="Credit" src="https://github.com/user-attachments/assets/2b7b987b-7a0b-4656-85ee-ae67dc659b01" />
 
 
-# 8. Key Insights
+# 7. Key Insights
 
 The dashboard revealed several important business insights:
 
@@ -142,7 +126,7 @@ The dashboard revealed several important business insights:
 - The overall delinquency rate remained relatively low at **6.06%**, suggesting healthy credit performance.
 - Weekly monitoring enables stakeholders to identify performance changes quickly and respond proactively to emerging business trends.
 
-# 9. Business Recommendations
+# 8. Business Recommendations
 
 Based on the analysis, the following recommendations were made:
 
@@ -172,7 +156,7 @@ Continue monitoring weekly KPIs to quickly identify changes in revenue, transact
 
 ---
 
-# 10. Challenges & Limitations
+# 9. Challenges & Limitations
 
 ### Challenges
 
@@ -189,7 +173,7 @@ Continue monitoring weekly KPIs to quickly identify changes in revenue, transact
 
 ---
 
-# 11. Author
+# 10. Author
 
 **Thene Tlotliso**
 
