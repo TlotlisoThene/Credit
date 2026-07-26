@@ -116,10 +116,10 @@ The dashboard enables stakeholders to:
 
 The dashboard revealed several important business insights:
 
-- Overall revenue reached **57M**, demonstrating strong financial performance.
-- Total transaction amount reached **46M**, while total interest income generated **8M**.
+- Overall revenue reached **55M**, demonstrating strong financial performance.
+- Total transaction amount reached **45M**, while total interest income generated **8M**.
 - Revenue increased by **28.8%** during **Week 53**, indicating significant week-over-week growth.
-- Male customers generated **31M** in revenue, outperforming female customers, who contributed **26M**.
+- Male customers generated **30M** in revenue, outperforming female customers, who contributed **26M**.
 - **Blue** and **Silver** credit cards accounted for approximately **93%** of all transactions, making them the dominant card categories.
 - Customers from **Texas (TX), New York (NY), and California (CA)** contributed approximately **68%** of total revenue.
 - The overall customer activation rate reached **57.5%**, indicating that more than half of customers actively use their credit cards.
